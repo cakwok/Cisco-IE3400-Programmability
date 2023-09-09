@@ -7,4 +7,4 @@ Through the web interface with RESTful API calling, a field user can
 - manage a switchport's administrative status
 - observe the Cyber Vision sensor status.
 <br/>
-![image](https://github.com/cakwok/Cisco-IE3400-Programmability/assets/21034990/fc29edb6-dd75-49df-9e9b-74d9833b3a3f)
+![image](https://github.com/cakwok/Cisco-IE3400-Programmability/assets/21034990/f80b83a7-2060-465d-b7e3-5b3397727c8e)
